@@ -3,6 +3,9 @@ Goals
 - provide our services free of charge
 - ensure secuirty of our services
 - maintaine high uptime
-TechnicLab is registred charitable organization
+
+
+TechnicLab is registred charitable organization:
+
 ![Docs]
 (https://transfer.sh/p4ZpD/registration.jpg)
