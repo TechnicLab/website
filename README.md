@@ -5,7 +5,4 @@ Goals
 - maintaine high uptime
 
 
-TechnicLab is registred charitable organization:
-
-![Docs]
-(https://transfer.sh/p4ZpD/registration.jpg)
+TechnicLab is registred in Russia charitable organization.
